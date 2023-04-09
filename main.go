@@ -16,3 +16,16 @@ the prayer hall at a cemetery in the settlement of Kfar Etzion.
 
 Many at the funeral were teenagers - some from the school Rina went to. At the front, by a low podium, 
 the family gathered, talking together and holding each other for long moments in silence.
+
+<html>
+<body>
+
+<p id="p1">Hello World!</p>
+
+<script>
+document.getElementById("p1").innerHTML = "New text!";
+</script>
+
+</body>
+</html>
+
